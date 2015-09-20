@@ -4,7 +4,10 @@
   "description": "A homemade 'hello world' app using Express.js, made w/o the help of Express-Genergator, for learning purposes",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "jade": "^1.11.0",
+    "mongoskin": "^1.4.13",
+    "stylus": "^0.52.4"
   },
   "devDependencies": {},
   "scripts": {
